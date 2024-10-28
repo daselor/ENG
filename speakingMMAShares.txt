@@ -26,8 +26,16 @@ Users will be able to sell very uncommon fighters with real
 currency to other users interested.
 
 
-. Our target audience is all the MMA community.
+. Our main audience is MMA fans, especially teenagers and young 
+adults. We know this crowd is all about staying up-to-date with 
+their favorite fighters, matches, and the latest news, so we 
+built this app to be their go-to for everything MMA.
 
-. (logo, slogan, image): Cuanto mayor es la lucha, mayor es el resultado.
+. Our logo has a bold, edgy look to it—just like MMA itself. 
+We wanted it to be intense and memorable so fans feel that 
+connection right away. Our slogan, “Manage your hobbie” 
+really captures what we’re going for: it’s not just about 
+watching MMA, but actually feeling that you are managing and 
+a very inmersive experience.
 
-. (Extra features and additional information): P2P of fighters.
+The app’s design is super simple and easy to use. We made sure it’s visually exciting but also quick to navigate, so users can jump right into the latest content. Our goal? To make this app the ultimate spot for MMA fans to stay connected and pumped up about the sport. Thanks for listening!
